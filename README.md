@@ -8,3 +8,4 @@ Get  : http://localhost:8080/executor/close   closes all threading services
 
 Get  : http://localhost:8080/executor/status  returns Status whether executor is running or not
 
+Requires a hsqldb database named creditsuisse
